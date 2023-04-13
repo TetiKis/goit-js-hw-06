@@ -16,4 +16,4 @@ function handleSubmit(event) {
     
     console.log(userDetails)
     event.currentTarget.reset()
-// }
+}

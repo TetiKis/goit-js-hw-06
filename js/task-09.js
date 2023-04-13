@@ -12,5 +12,4 @@ changeColor.addEventListener('click', () => {
   let color = getRandomHexColor();
   body.style.backgroundColor = color;
   colorValue.textContent = color;
-};
-  )
+})
